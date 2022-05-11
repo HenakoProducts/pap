@@ -16,5 +16,3 @@ This also isnt a header
 #### Another same size header
 
 Also not a header smart one.
-
-```
