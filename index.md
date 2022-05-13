@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Feel free to give me ideas of what to write here, but for now its placeholder text
 
-Maybe say a some things about yourself.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
 
-Or maybe what you plan to blog about.
+sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
